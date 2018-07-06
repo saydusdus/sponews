@@ -1,2 +1,0 @@
-# sponews
-sponews
